@@ -488,6 +488,7 @@ footer a {
     display: flex;
     align-items: center;
     justify-content: center;
+    display: none;
 }
 
 /* ---------FOOTER---------- */
@@ -634,6 +635,9 @@ label #btn-ex {
     .footer-menu {
         display: flex;
         flex-direction: column;
+    }
+    .footer-img  {
+        display: flex;
     }
 
 }
