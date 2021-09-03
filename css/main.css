@@ -528,7 +528,7 @@ label #btn-on {
 label #btn-ex {
     left: -246px;
     z-index: 1111;
-    top: 40px;
+    top: 20px;
   }
 #check:checked ~ #mobile-menu {
     left: 0;
